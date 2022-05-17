@@ -1,4 +1,4 @@
-## Shop Cart App
+# Shop Cart App
 A simple app which purpose is to let the user purchase an item and add (or remove) it into a cart.
 It is an app completely developed with ReactJs.
 
